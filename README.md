@@ -3,6 +3,7 @@ Um exemplo simples de como criar uma API de forma simples com Gorilla-Mux tão r
 
 # Como Testar
 Rodar o projeto com `run go main.go`
+
 A API vai escutar na porta 8000 por default
 
 # Exemplo de body para post/put
